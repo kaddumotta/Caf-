@@ -1,4 +1,4 @@
-☕ Landing Page - Café Aromas
+☕ Landing Page - Café Gourmet
 
 Bem-vindo ao repositório da Landing Page - Café Gourmet, um projeto desenvolvido para praticar habilidades em HTML, CSS e SASS, utilizando a biblioteca AOS para animações.
 
